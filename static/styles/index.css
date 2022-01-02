@@ -1,8 +1,10 @@
 h1, p, input {
     font-family: 'Urbanist', sans-serif;
+    color: white;
 }
 
 #speechContainer {
+    background-color: #252525;
     margin: 20px;
 }
 
@@ -19,9 +21,11 @@ h1, p, input {
     cursor: pointer;
 }
 #speechTranscriptContainer {
+    background-color: #252525;
     margin-top: 20px;
 }
 #speechText {
     font-size: 18px;
     width: 500px;
+    color: white;
 }
